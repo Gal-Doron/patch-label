@@ -5,8 +5,8 @@
       "labels": ["dependencies"],
       "packageRules": [
     {
-      "matchUpdateTypes": ["patch-type"],
-      "labels": ["patch"]
+      "matchUpdateTypes": ["patch"],
+      "labels": ["patch-type"]
     },
     {
       "matchUpdateTypes": ["minor"],
